@@ -1,3 +1,5 @@
+"use client";
+
 import React, { useState, useEffect } from 'react';
 import { Calendar, Trash2, Check, ChevronDown, Copy, Mail, BookOpen } from 'lucide-react';
 
